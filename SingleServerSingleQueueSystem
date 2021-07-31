@@ -1,0 +1,13 @@
+
+1.The average waiting time per customer: (Total waiting time/number of customers)
+Ans) 0.28571 (2/7)
+2.The probability of a customer to wait in the queue.: (Total number of waiting customers/Total number of customers)
+Ans) 0.14286 (1/7)
+3.The proportion of idle time for servers: (idle time of server/total run time)
+Ans) 1.63636 (18/11)
+4.The average service time: (Total service time/number of customers)
+Ans) 1.57142 (11/7)
+5.The average arrival time: (Sum of interarrival times/ Total customers arrived)
+Ans) 11.85714 (83/7)
+6.The average time that a customer has to spend in the system: (Total time spent / number of customers)
+Ans) 3.85714 (27/7)
